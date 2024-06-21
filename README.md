@@ -7,7 +7,7 @@ _Sou um entusiasta de tecnologia e atualmente estou cursando Ciência da Computa
 Estou sempre em busca de oportunidades para aplicar meus conhecimentos em projetos práticos e colaborar com outros entusiastas de tecnologia. Meu objetivo é continuar aprendendo e crescendo na área de desenvolvimento de software.
 
 ### **Projetos Destacados**
-**FlyWithUs:**<br/>
+**[FlyWithUs](../../../FlyWithUs):**<br/>
 Projeto desenvolvido em **C#** como trabalho avaliativo, focado na estruturação de projetos **MVC**, integração com banco de dados **MySQL** e criação de uma interface gráfica simplificada.
 
 ### **Habilidades**
